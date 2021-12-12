@@ -6,6 +6,7 @@ public class DisplayMonth2 {
 	
 		for (int i = 0; i < 12; i ++) {
 			System.out.println(month[i]);
+//			配列
 		}
 	}
 
